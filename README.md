@@ -30,16 +30,5 @@ Time series forecasting project comparing statistical, machine learning, and dee
 - GRU
 - CNN
 
-## Repository Structure
-
-weather-forecasting-model-comparison/
-│
-├── data/
-├── notebooks/
-├── images/
-├── report/
-├── README.md
-└── requirements.txt
-
 ## Results
 The project evaluates forecasting accuracy across multiple approaches and analyzes how different models capture seasonal and nonlinear weather patterns.
