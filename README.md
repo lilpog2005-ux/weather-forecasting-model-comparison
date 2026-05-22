@@ -10,6 +10,9 @@ Time series forecasting project comparing statistical, machine learning, and dee
 - Model performance comparison and evaluation
 - Forecasting visualizations and analytical reporting
 
+## Data
+Dataset link: [Weather Dataset](https://www.kaggle.com/datasets/muthuj7/weather-dataset)
+
 ## Technologies Used
 - Python
 - Pandas
